@@ -3,8 +3,9 @@ import java.util.*;
 
 public class Talker {
 
-	public Talker() {
+	public Talker(Sim sim) {
 		reader = new Scanner(System.in);
+		mySim = sim;
 	}
 	
 	//TODO INCLUDE WELCOME TEXT WITH ALL THE RULES OF THE GAME
@@ -14,11 +15,13 @@ public class Talker {
 	
 	public void speakResults(String results) {
 		System.out.println(results);
+		System.out.print("\n");
 	}
 	
 	public String getUserPlay() {
 		System.out.println("New round has begun.");
-		String userPlay = getUserInput();
+		//String userPlay = getUserInput();
+		String userPlay = mySim.getSimInput();
 		return userPlay;
 	}
 	
@@ -27,7 +30,7 @@ public class Talker {
 		String userInput = "";
 		
 		while (incorrectInput) {
-			System.out.println("Please type in 'r', 'p', or 's'.");
+			System.out.print("Please type in 'r', 'p', or 's'.\nYour Input: ");
 			userInput = reader.nextLine();
 			
 			incorrectInput = isInvalidInput(userInput);
@@ -49,5 +52,6 @@ public class Talker {
 	}
 	
 	private Scanner reader;
-	private String[] userChoices = {"r", "p", "s"};
+	private Sim mySim;
+	private String[] userChoices = {"r", "p", "s", "l", "c"};
 }

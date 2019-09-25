@@ -5,7 +5,7 @@ public class Thrower {
 
 	private String randomStrategy() {
 		int i = (int) (Math.random() * playOptions.length());
-		return myChoices[i];
+		return playOptions.substring(i,i+1);
 	}
 	
 	private String recorderStrategy() {
@@ -47,15 +47,17 @@ public class Thrower {
 	}
 	
 	public String getComputerPlay() {
-		return recorderStrategy();
+		return randomStrategy();
+		//return recorderStrategy();
 	}
 	
-	private String[] myChoices = {"r", "p", "s"};
-	private String playOptions = "rps";
-	private int[] userPlaysRecord = {0, 0, 0};
+	private String playOptions = "rpslc";
+	private int[] userPlaysRecord = {0, 0, 0, 0, 0};
 	
-	private int[][] numberResultOptions = {{0, -1, 1}, 
-											{1, 0, -1}, 
-											{-1, 1, 0}};
+	private int[][] numberResultOptions = {{0, -1, 1, 1, -1}, 
+											{1, 0, -1, -1, 1}, 
+											{-1, 1, 0, 1, -1}, 
+											{-1, 1, -1, 0, 1},
+											{1, -1, 1, -1, 0}};
 	
 }

@@ -3,7 +3,8 @@ import java.util.*;
 
 public class Scorer {
 
-	public Scorer(Thrower thrower, Talker talker) {
+	public Scorer(Sim sim, Thrower thrower, Talker talker) {
+		mySim = sim;
 		myThrower = thrower;
 		myTalker = talker;
 	}
@@ -33,7 +34,7 @@ public class Scorer {
 		gameResults += "Computer Win Count: " + computerWinCount + "\n";
 		gameResults += "Computer Win Percentage: " + computerWinPercentage + "\n";
 		gameResults += "Tie Count: " + tieCount + "\n";
-		gameResults += "Tie Count: " + tiePercentage + "\n";
+		gameResults += "Tie Percentage: " + tiePercentage + "\n";
 		
 		return gameResults;
 	}
@@ -53,7 +54,7 @@ public class Scorer {
 		int thisRoundResultNumber = userNumberResultOptions[userPlayIndex][computerPlayIndex];
 		
 		updateRecorder(thisRoundResultNumber);
-		
+		mySim.updateSim(computerPlay);
 	}
 	
 	private void updateRecorder(int thisRoundResultNumber) {
@@ -73,19 +74,24 @@ public class Scorer {
 		myRecorder.increaseTotalTimesPlayed();
 	}
 	
+	private Sim mySim;
 	private Thrower myThrower;
 	private Talker myTalker;
 	private Recorder myRecorder = new Recorder();
 	
-	private String playOptions = "rps";
+	private String playOptions = "rpslc";
 	
 	private String thisRoundResultText = "";
 	
 	// -1 -- loss, 0 -- tie, 1 -- win
-	private int[][] userNumberResultOptions = {{0, -1, 1}, 
-												{1, 0, -1}, 
-												{-1, 1, 0}};
-	private String[][] roundTextOutputOptions = {{"We tied with rocks!", "I won! My paper covers your rock.", "You won! Your rock crushes my scissors."},
-												{"You won! Your paper covers my rock.", "We tied with paper!", "I won! My scissors cut your paper."},
-												{"I won! My rock crushes your scissors.", "You won! Your scissors cut my paper.", "We tied with paper!"}};
+	private int[][] userNumberResultOptions = {{0, -1, 1, 1, -1}, 
+												{1, 0, -1, -1, 1}, 
+												{-1, 1, 0, 1, -1},
+												{-1, 1, -1, 0, 1},
+												{1, -1, 1, -1, 0}};
+	private String[][] roundTextOutputOptions = {{"We tied with rocks!", "I won! My paper covers your rock.", "You won! Your rock crushes my scissors.", "You won! Your rock crushes my lizard.", "I won! My Spock vaporizes your rock."},
+												{"You won! Your paper covers my rock.", "We tied with paper!", "I won! My scissors cut your paper.", "I won! My lizard eats your paper.", "You won! Your paper disproves my Spock."},
+												{"I won! My rock crushes your scissors.", "You won! Your scissors cut my paper.", "We tied with scissors!", "You won! Your scissors decapitate my lizard.", "I won! My Spock smashes your scissors."},
+												{"I won! My rock crushes your lizard.", "You won! Your lizard eats my paper.", "I won! My scissors decapitate your lizard.", "We tied with lizards!", "You won! Your lizard poisons my Spock."},
+												{"You won! Your Spock vaporizes my rock.", "I won! My paper disproves your Spock.", "You won! Your Spock smashes my scissors.", "I won! My lizard poisons your Spock.", "We tied with Spocks!"}};
 }
