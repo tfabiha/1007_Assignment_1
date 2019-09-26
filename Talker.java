@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * @author tf2478
+ * @author Tabassum Fabiha -- tf2478
  * 
  * The class speaks with the user to relay information in the console. It is also used to obtain
  * information from the user (human or sim).
@@ -92,8 +92,8 @@ public class Talker {
 	private boolean isInvalidInput(String userInput) {
 		boolean invalid = true;
 
-		for (int i = 0; i < userChoices.length; i++) {
-			if (userInput.equals( userChoices[i] )) {
+		for (int i = 0; i < userPlayOptions.length; i++) {
+			if (userInput.equals( userPlayOptions[i] )) {
 				return !invalid;
 			}
 		}
@@ -106,5 +106,5 @@ public class Talker {
 	
 	private int NUMROUNDS;
 	private int currentRound = 0;
-	private String[] userChoices = {"r", "p", "s", "l", "k"};
+	private String[] userPlayOptions = {"r", "p", "s", "l", "k"};
 }

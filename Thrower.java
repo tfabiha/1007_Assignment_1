@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * @author tf2478
+ * @author Tabassum Fabiha -- tf2478
  *
  * The class computes the moves made by the computer. 
  * 
@@ -26,8 +26,7 @@ public class Thrower {
 		String computerPlay;
 		int chanceToGoRandom;
 		
-		/*
-		if (last6moves.size() < 6) {
+		if (last6Moves.size() < 6) {
 			chanceToGoRandom = (int) (Math.random() * 2);
 			
 			if (chanceToGoRandom == 0) {
@@ -40,21 +39,11 @@ public class Thrower {
 		else {
 			computerPlay = revengeStrategy();
 		}
-		*/
 		
-		chanceToGoRandom = (int) (Math.random() * 2);
-		
-		if (chanceToGoRandom == 0) {
-			computerPlay = randomStrategy();
+		if (last6Moves.size() >= 6) {
+			last6Moves.removeFirst();
 		}
-		else {
-			computerPlay = recorderStrategy();
-		}
-		
-		if (last6moves.size() >= 6) {
-			last6moves.removeFirst();
-		}
-		last6moves.addLast(computerPlay);
+		last6Moves.addLast(computerPlay);
 		
 		return computerPlay;
 	}
@@ -110,7 +99,7 @@ public class Thrower {
 	private String counterRotatorStrategy() {
 		String computerPlay;
 		String userPlayOptionsTwice = playOptions + playOptions;
-		String userLastPlay = last6moves.getLast();
+		String userLastPlay = last6Moves.getLast();
 		
 		int userNextPlayIndex = (1 + userPlayOptionsTwice.indexOf(userLastPlay)) % playOptions.length();
 	
@@ -126,7 +115,7 @@ public class Thrower {
 	 */
 	private String counterReflectorStrategy() {
 		String computerPlay = "s";
-		String computerLastPlay = last6moves.get(4);
+		String computerLastPlay = last6Moves.get(4);
 		int userNextPlayIndex = playOptions.indexOf(computerLastPlay);
 		
 		computerPlay = playToWinAgainst(userNextPlayIndex);
@@ -143,9 +132,9 @@ public class Thrower {
 		String userPlayOptionsTwice = playOptions + playOptions;
 		String lastUserPlays = "";
 		
-		lastUserPlays += last6moves.get(1);
-		lastUserPlays += last6moves.get(3);
-		lastUserPlays += last6moves.get(5);
+		lastUserPlays += last6Moves.get(1);
+		lastUserPlays += last6Moves.get(3);
+		lastUserPlays += last6Moves.get(5);
 		
 		return userPlayOptionsTwice.contains(lastUserPlays);
 	}
@@ -199,15 +188,15 @@ public class Thrower {
 		int userPlayIndex = playOptions.indexOf(userPlay);
 		userPlaysRecord[userPlayIndex] += 1;
 		
-		if (last6moves.size() >= 6) {
-			last6moves.removeFirst();
+		if (last6Moves.size() >= 6) {
+			last6Moves.removeFirst();
 		}
-		last6moves.addLast(userPlay);
+		last6Moves.addLast(userPlay);
 	}
 	
 	private String playOptions = "rpslk";
 	private int[] userPlaysRecord = {0, 0, 0, 0, 0};
-	private LinkedList<String> last6moves = new LinkedList<String>();
+	private LinkedList<String> last6Moves = new LinkedList<String>();
 	
 	/**
 	 * The 2d array is used to store the info on who wins or loses given all

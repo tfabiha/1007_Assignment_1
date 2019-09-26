@@ -1,6 +1,6 @@
 
 /**
- * @author tf2478
+ * @author Tabassum Fabiha -- tf2478
  *
  * The class simulates the moves a human would make, either playing the opponent's last play (reflector strategy)
  * or going through the plays 'rpslk' in a sequential order (rotator strategy). The sim starts off with the 
@@ -37,8 +37,7 @@ public class Sim {
 	 */
 	public String getSimInput() {
 		String simInput;
-		simInput = rotatorStrategy();
-		/*
+
 		int NsPassed = roundsPlayed / N;
 				
 		if ( NsPassed % 2 == 0 ) {
@@ -47,7 +46,7 @@ public class Sim {
 		else {
 			simInput = reflectorStrategy();
 		}
-		*/
+		
 		System.out.print("Please type in 'r', 'p', 's', 'l' or 'k'.\nYour Input: ");
 		System.out.println(simInput);
 		

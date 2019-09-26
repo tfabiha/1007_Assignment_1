@@ -1,6 +1,6 @@
 
 /**
- * @author tf2478
+ * @author Tabassum Fabiha -- tf2478
  *
  * The class computes the results of who won and lost in the previous round. It updates
  * the Thrower and Sim instances of the last move made by the opposing player.

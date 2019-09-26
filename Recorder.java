@@ -1,6 +1,6 @@
 
 /**
- * @author tf2478
+ * @author Tabassum Fabiha -- tf2478
  * 
  * This class records all the counts throughout the game, for wins, ties, and total rounds played
  * thus far.

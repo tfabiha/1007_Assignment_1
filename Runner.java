@@ -1,8 +1,14 @@
 
 /**
- * @author tfabiha
+ * @author Tabassum Fabiha -- tf2478
  *
- * This instantiates the necessary variables to 
+ * This creates instances of the Sim, Thrower, Scorer, and Talker classes. It also
+ * starts off the game by asking the Talker to welcome the user and facilitates the
+ * major components of each round.
+ * 
+ * For each round it obtains the plays from both the user and the computer and sends
+ * them to the scorer to be computed to find the winner of the round. It also asks the
+ * scorer to send the round/game results to the appropriate places when appropriate.
  * 
  * Step 1 Trial Run Summary:
  *    User Win Count: 35
@@ -82,11 +88,38 @@
  *    Note: 
  *    	This test run I tested the sim's reflector strategy. I checked each of the moves made
  *    by the sim to make sure it reflected the last move made by the AI.
+ *    
+ * Step 4 Trial Run 2 Summary:
+ *    User Win Count: 3544
+ *    User Win Percentage: 35.44
+ *    Computer Win Count: 3543
+ *    Computer Win Percentage: 35.43
+ *    Tie Count: 2913
+ *    Tie Percentage: 29.13
+ *    
+ *    Note:
+ *    	This test run I played 10000 rounds with an N of 15. Regardless of what N I tried out the
+ *    percentages of user wins vs computer wins stayed the same. Both had approximately 35% wins 
+ *    and 30% ties.
+ *    
+ * Step 5 Trial Run 0 Summary:
+ *    User Win Count: 334
+ *    User Win Percentage: 3.34
+ *    Computer Win Count: 9332
+ *    Computer Win Percentage: 93.32
+ *    Tie Count: 334
+ *    Tie Percentage: 3.34
+ *    
+ *    Note:
+ *    	This test run was under the same conditions (10000 rounds and N of 15)as the as the previous 
+ *    test run. The computer was quite accurately able to guess what the next move to be made would be
+ *    the only reason the user was able to win even 3 percent of the time was because of the times in
+ *    which the user switched to a new strategy.
  */
 public class Runner {
 	
-	static int NUMROUNDS = 100;
-	static int N = 5;
+	static int NUMROUNDS = 10000;
+	static int N = 15;
 
 	public static void main(String[] args) {
 
