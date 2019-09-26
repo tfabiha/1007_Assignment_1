@@ -1,0 +1,523 @@
+Welcome to RSPLK, the game of Rock Paper Scissors Lizard Spock.
+
+Rules:
+   - Rock beats scissors and lizard.
+   - Paper beats rock and Spock.
+   - Scissors beat paper and lizard.
+   - Lizard beats paper and Spock.
+   - Spock beats rock and scissors.
+
+The following letters correspond to each option:
+   - Rock --> r
+   - Paper --> p
+   - Scissors --> s
+   - Lizard --> l
+   - Spock --> k
+
+Round 0 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+I won! My Spock vaporizes your rock.
+
+Round 1 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+You won! Your paper disproves my Spock.
+
+Round 2 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 3 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+You won! Your lizard poisons my Spock.
+
+Round 4 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+We tied with Spocks!
+
+Round 5 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my lizard.
+
+Round 6 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My scissors cut your paper.
+
+Round 7 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 8 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+You won! Your lizard poisons my Spock.
+
+Round 9 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+We tied with Spocks!
+
+Round 10 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+I won! My Spock vaporizes your rock.
+
+Round 11 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+You won! Your paper disproves my Spock.
+
+Round 12 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+I won! My Spock smashes your scissors.
+
+Round 13 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+You won! Your lizard poisons my Spock.
+
+Round 14 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+You won! Your Spock smashes my scissors.
+
+Round 15 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 16 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My scissors cut your paper.
+
+Round 17 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+We tied with scissors!
+
+Round 18 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+I won! My scissors decapitate your lizard.
+
+Round 19 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+You won! Your Spock smashes my scissors.
+
+Round 20 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+I won! My paper covers your rock.
+
+Round 21 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+We tied with paper!
+
+Round 22 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 23 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+We tied with lizards!
+
+Round 24 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+You won! Your Spock smashes my scissors.
+
+Round 25 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my lizard.
+
+Round 26 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My scissors cut your paper.
+
+Round 27 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 28 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+We tied with lizards!
+
+Round 29 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 30 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my lizard.
+
+Round 31 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My scissors cut your paper.
+
+Round 32 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 33 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+We tied with lizards!
+
+Round 34 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 35 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my lizard.
+
+Round 36 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 37 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors cut my paper.
+
+Round 38 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+I won! My rock crushes your lizard.
+
+Round 39 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 40 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+We tied with rocks!
+
+Round 41 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 42 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 43 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+I won! My rock crushes your lizard.
+
+Round 44 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 45 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 46 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 47 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 48 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+You won! Your lizard poisons my Spock.
+
+Round 49 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 50 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my lizard.
+
+Round 51 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 52 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 53 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+We tied with lizards!
+
+Round 54 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+You won! Your Spock smashes my scissors.
+
+Round 55 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my lizard.
+
+Round 56 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 57 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 58 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+I won! My rock crushes your lizard.
+
+Round 59 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 60 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+We tied with rocks!
+
+Round 61 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 62 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors cut my paper.
+
+Round 63 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+We tied with lizards!
+
+Round 64 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 65 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+I won! My paper covers your rock.
+
+Round 66 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+You won! Your paper disproves my Spock.
+
+Round 67 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+We tied with scissors!
+
+Round 68 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+We tied with lizards!
+
+Round 69 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+We tied with Spocks!
+
+Round 70 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my lizard.
+
+Round 71 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+We tied with paper!
+
+Round 72 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 73 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+You won! Your lizard poisons my Spock.
+
+Round 74 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 75 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my lizard.
+
+Round 76 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 77 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+We tied with scissors!
+
+Round 78 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+I won! My scissors decapitate your lizard.
+
+Round 79 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+We tied with Spocks!
+
+Round 80 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+I won! My Spock vaporizes your rock.
+
+Round 81 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 82 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 83 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+We tied with lizards!
+
+Round 84 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 85 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my lizard.
+
+Round 86 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 87 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 88 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+I won! My rock crushes your lizard.
+
+Round 89 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 90 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 91 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+I won! My lizard eats your paper.
+
+Round 92 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 93 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+We tied with lizards!
+
+Round 94 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+I won! My lizard poisons your Spock.
+
+Round 95 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 96 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: p
+You won! Your paper disproves my Spock.
+
+Round 97 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: s
+You won! Your scissors decapitate my lizard.
+
+Round 98 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: l
+We tied with lizards!
+
+Round 99 has begun.
+Please type in 'r', 'p', 's', 'l' or 'k'.
+Your Input: k
+You won! Your Spock smashes my scissors.
+
+Game ended!
+User Win Count: 43
+User Win Percentage: 43.0
+Computer Win Count: 37
+Computer Win Percentage: 37.0
+Tie Count: 20
+Tie Percentage: 20.0

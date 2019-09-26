@@ -1,0 +1,521 @@
+Welcome to RSP, the game of Rock Paper Scissors.
+
+Rules:
+   - Rock beats scissors.
+   - Paper beats rock.
+   - Scissors beat paper.
+
+The following letters correspond to each option:
+   - Rock --> r
+   - Paper --> p
+   - Scissors --> s
+
+Round 0 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 1 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 2 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 3 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 4 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 5 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 6 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+You won! Your scissors cut my paper.
+
+Round 7 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 8 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 9 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+I won! My paper covers your rock.
+
+Round 10 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 11 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 12 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 13 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+We tied with scissors!
+
+Round 14 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 15 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+I won! My scissors cut your paper.
+
+Round 16 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+We tied with paper!
+
+Round 17 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 18 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 19 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+You won! Your scissors cut my paper.
+
+Round 20 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 21 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 22 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: sp
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 23 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 24 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+You won! Your scissors cut my paper.
+
+Round 25 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+We tied with scissors!
+
+Round 26 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 27 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 28 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+We tied with scissors!
+
+Round 29 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 30 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 31 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 32 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 33 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+We tied with paper!
+
+Round 34 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 35 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+I won! My paper covers your rock.
+
+Round 36 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 37 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 38 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 39 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+We tied with scissors!
+
+Round 40 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+I won! My paper covers your rock.
+
+Round 41 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 42 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 43 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 44 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 45 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+We tied with scissors!
+
+Round 46 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 47 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+You won! Your scissors cut my paper.
+
+Round 48 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 49 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+You won! Your scissors cut my paper.
+
+Round 50 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 51 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 52 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 53 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 54 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 55 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 56 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 57 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 58 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 59 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+I won! My paper covers your rock.
+
+Round 60 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 61 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 62 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 63 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 64 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 65 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 66 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 67 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 68 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+You won! Your scissors cut my paper.
+
+Round 69 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 70 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 71 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 72 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 73 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 74 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+I won! My scissors cut your paper.
+
+Round 75 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+I won! My paper covers your rock.
+
+Round 76 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 77 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 78 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 79 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 80 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 81 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 82 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 83 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 84 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 85 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 86 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 87 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 88 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+We tied with scissors!
+
+Round 89 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 90 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 91 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 92 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Round 93 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 94 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+I won! My rock crushes your scissors.
+
+Round 95 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 96 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+You won! Your rock crushes my scissors.
+
+Round 97 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: s
+You won! Your scissors cut my paper.
+
+Round 98 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: p
+You won! Your paper covers my rock.
+
+Round 99 has begun.
+Please type in 'r', 'p', or 's'.
+Your Input: r
+We tied with rocks!
+
+Game ended!
+User Win Count: 38
+User Win Percentage: 38.0
+Computer Win Count: 29
+Computer Win Percentage: 29.0
+Tie Count: 33
+Tie Percentage: 33.0
